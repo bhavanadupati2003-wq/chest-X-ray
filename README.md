@@ -32,3 +32,9 @@ The application is built using **PyTorch** and deployed with **Streamlit** for a
 ---
 
 ## 📂 Project Structure
+chest-xray-pneumonia-detection/
+│
+├── app.py # Streamlit application
+├── resnet18_pneumonia_model.pth # Trained model weights
+├── requirements.txt # Project dependencies
+└── README.md # Project documentation
